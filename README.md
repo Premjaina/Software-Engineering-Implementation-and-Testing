@@ -36,7 +36,7 @@ Ans: plan
 
 
 
-#WEEK 2
+## WEEK 2
 
 Question 1
 Which of the following is not an emphasis of an Agile development process?
@@ -72,7 +72,7 @@ Ans: full system; partial functionality
 
 
 
-#WEEK 3 
+## WEEK 3 
 
 
 Question 1
@@ -109,7 +109,7 @@ Ans: improve the internal structure of the code.
 
 
 
-#WEEK 4
+## WEEK 4
 
 
 Question 1
@@ -144,7 +144,7 @@ Ans: risk management
 
 
 
-#WEEK 5 
+## WEEK 5 
 
 
 Question 1
@@ -180,7 +180,7 @@ Ans: Validation Testing
 
 
 
-#WEEK 6
+## WEEK 6
 
 
 
@@ -217,10 +217,9 @@ Ans: performance testing
 
 
 
-WEEK-7
+## WEEK-7
 
 
-1.
 Question 1
 Black box testing techniques are mostly used in what type of testing?
 
