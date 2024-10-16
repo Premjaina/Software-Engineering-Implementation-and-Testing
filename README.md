@@ -146,25 +146,25 @@ Ans: risk management
 ## WEEK 5 
 
 
-Question 1:
+Question 1 :
 In the UML, the concept of generalization
 
 Ans: allows a class to specialize its attributes and operations.
 
 
-Question 2:
+Question 2 :
 An exclusive or (XOR) constraint states that
 
 Ans: instances of only one of two classes can be related to instances of another class.
 
 
-Question 3:
+Question 3 :
 Basis path testing ensures that we have tested at least
 
 Ans: all the statements in a program.
 
 
-Question 4:
+Question 4 :
 _____ focuses on whether we have built the software right in such a way that each function works correctly and has no defects.
 
 Ans: Verification Testing
@@ -182,13 +182,13 @@ Ans: Validation Testing
 
 
 
-Question 1:
+Question 1 :
 Testing every statement in a program guarantees that all defects (bugs) will be found.
 
 Ans: No, no way!!
 
 
-Question 2:
+Question 2 :
 The purpose of software testing is to show that
 
 Ans: the software has defects (bugs).
@@ -230,19 +230,20 @@ Black box testing uses test values at the boundaries of a subdomain because
 Ans: errors are more likely to occur here.
 
 
-Question 3:
+Question 3 :
 The purpose of data flow testing is to ensure the correctness of values
 
 Ans: of program variables.
 
 
-Question 4:
+Question 4 :
 When testing a nested loop, we initially test the inner loop while holding the outer loop at
 
-Ans: its minimum value.
+Ans: its minimum value.  
 
 
-Question 5:
+
+Question 5 :
 When testing a simple loop, what is the minimum number of test cases required?
 
 Ans: 7
